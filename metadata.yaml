@@ -1,0 +1,44 @@
+_repo: The-Mongols-b-A-history_72183
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
+creator:
+  author:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+    wikipedia: https://en.wikipedia.org/wiki/Jeremiah_Curtin
+description: ''
+gutenberg_issued: '2023-11-20'
+identifiers:
+  gutenberg: '72183'
+  lccn: '07040050'
+language: en
+pgterms:marc904: https://archive.org/details/mongolshistory00curtuoft/page/n4/mode/2up
+pgterms:marc905: 20200418080558curtin
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aBoston :$bLittle Brown & Company, $c1907, pubdate 1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mongols -- History'
+- !lcc 'DS'
+- GITenberg
+title: 'The Mongols : $b A history'
+url: http://www.gutenberg.org/ebooks/72183
