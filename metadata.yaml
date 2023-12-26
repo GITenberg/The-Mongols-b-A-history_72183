@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '729'
     url: http://www.gutenberg.org/2009/agents/729
     wikipedia: https://en.wikipedia.org/wiki/Theodore_Roosevelt
+covers:
+- cover_type: archival
+  image_path: 72183-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Curtin, Jeremiah
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1053
     wikipedia: https://en.wikipedia.org/wiki/Jeremiah_Curtin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72183#The-Mongols-b-A-history
 gutenberg_issued: '2023-11-20'
 identifiers:
   gutenberg: '72183'
